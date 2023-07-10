@@ -47,7 +47,7 @@ const questions = [
         question: 'Enter your email address',
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         question: 'Choose a license for your application',
         choices: ['MIT', 'Apache', 'GPL', 'MPL', 'none']

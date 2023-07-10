@@ -1,4 +1,4 @@
-# README  Generator
+# README Generator
   undefined
   ![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
   ## Table of Contents
@@ -11,13 +11,13 @@
   [License](license)
 
   ## Description
-  Generates a readme for repositories
+  Generates a README file for your applications
 
   ## Installation
   none
 
   ## Usage
-  Type 'node index.js' into your terminal and enter responses to the prompts.
+  Type 'node index.js' into your console and enter responses to each prompt
 
   ## contribution
   none
@@ -30,7 +30,6 @@
   efrancis64@gmail.com
 
   ## License
-  ## License
     Licensed under the MIT license
-    undefined
+    https://www.mit.edu/~amini/LICENSE.md
   
