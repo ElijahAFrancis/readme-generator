@@ -1,6 +1,5 @@
 # README Generator
-  undefined
-  ![License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+  ![license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
   ## Table of Contents
   [Description](#description)
   [Installation](#installation)
@@ -11,13 +10,13 @@
   [License](license)
 
   ## Description
-  Generates a README file for your applications
+  Generates a README file for your repositories
 
   ## Installation
   none
 
   ## Usage
-  Type 'node index.js' into your console and enter responses to each prompt
+  Type 'node index.js' into your console and enter responses to each prompt.
 
   ## contribution
   none
