@@ -14,7 +14,7 @@
   https://drive.google.com/file/d/1Rwp6wc5P9R7sua5lB8D_Wpr9MXG3Hl9A/view?pli=1
 
   ## Installation
-  none
+  Clone github repository
 
   ## Usage
   Type 'node index.js' into your console and enter responses to each prompt
