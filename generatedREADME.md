@@ -1,6 +1,6 @@
 # README Generator
   undefined
-  [License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+  ![License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
   ## Table of Contents
   [Description](#description)
   [Installation](#installation)
